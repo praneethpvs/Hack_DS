@@ -25,4 +25,3 @@ def ReversePrint(head):
                 current = current.next
             for val in reverse_list:
                 print val
-               
